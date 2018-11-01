@@ -13,11 +13,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>2F7C59C70558748234722B5C2489850710BA42A3</string>
+				<string>4A9B4F44D371AF1D19FC79022AFD6B78DD7BF8B6</string>
 				<key>dateExpires</key>
-				<string>31/10/19</string>
+				<string>2/11/19</string>
 				<key>type</key>
-				<string>iOS Development</string>
+				<string>iOS Distribution</string>
 			</dict>
 			<key>entitlements</key>
 			<dict>
@@ -26,7 +26,7 @@
 				<key>com.apple.developer.team-identifier</key>
 				<string>5647ML5CC6</string>
 				<key>get-task-allow</key>
-				<true/>
+				<false/>
 				<key>keychain-access-groups</key>
 				<array>
 					<string>5647ML5CC6.com.oliveapp.appsample.yitu.three</string>
@@ -37,9 +37,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>10882b48-22e2-4638-a5cb-49d48480b20d</string>
+				<string>f69f5933-87ec-44dd-b906-9c837aa7a448</string>
 				<key>name</key>
-				<string>iOS Team Provisioning Profile: com.oliveapp.appsample.yitu.three</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.oliveapp.appsample.yitu.three</string>
 			</dict>
 			<key>team</key>
 			<dict>
