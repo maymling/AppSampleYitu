@@ -22,14 +22,14 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>5647ML5CC6.com.oliveapp.appsample.yitu.three</string>
+				<string>5647ML5CC6.com.oliveapp.appsample.yitu.five</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>5647ML5CC6</string>
 				<key>get-task-allow</key>
 				<false/>
 				<key>keychain-access-groups</key>
 				<array>
-					<string>5647ML5CC6.com.oliveapp.appsample.yitu.three</string>
+					<string>5647ML5CC6.com.oliveapp.appsample.yitu.five</string>
 				</array>
 			</dict>
 			<key>name</key>
@@ -37,9 +37,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>3779bd44-5aae-4c3d-9b7a-281abe70471e</string>
+				<string>33d41be9-f679-4ae4-9dc6-092cc20c20dc</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: com.oliveapp.appsample.yitu.three</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: *</string>
 			</dict>
 			<key>team</key>
 			<dict>
